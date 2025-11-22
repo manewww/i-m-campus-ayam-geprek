@@ -30,3 +30,5 @@ shoppingCartButton.onclick = (e) => {
     shoppingCart.classList.toggle('active');
     e.preventDefault();
 };
+
+
